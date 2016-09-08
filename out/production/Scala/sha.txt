@@ -1,0 +1,12 @@
+sjnvskjnsdns
+vrasgvkjnkejfn
+sfnsf wnjjwnf
+wfnwnje sdnfjsd dnsjdncjs nvsjndsj
+jsndj
+vsdsdnskndss sdjncskdcns sdnksdns dnskdjn
+How to kick-start Spark development on IntelliJ IDEA in 4 steps - Medium
+https://medium.com/.../how-to-kick-start-spark-development-on-intellij-idea-in-4-step...
+Feb 8, 2015 - I'm gonna walk you through the process of how to set up your environment in order to develop a Apache Spark application using Scala in…
+Create Spark Scala applications using HDInsight plugin for IntelliJ IDEA
+https://azure.microsoft.com/en-us/.../hdinsight-apache-spark-intellij-tool-plugin/
+Jul 25, 2016 - This article provides step-by-step guidance on developing Spark applications written in Scala and submitting it to an HDInsight Spark cluster ...
